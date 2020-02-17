@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name snepper)(type KiCad)(uri /home/joppy/Electronics/snepper.pretty)(options "")(descr ""))
+)
