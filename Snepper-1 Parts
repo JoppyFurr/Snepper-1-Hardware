@@ -1,0 +1,64 @@
+------------------------------------------
+
+ LED Tester
+
+ Part#      Description         Quantity
+ -----      -----------         --------
+
+
+ C1760      C, 100 nF           × 7
+ C307527    C,  10 µF           × 2
+ C115309    R,  10 k            × 12
+
+ C5605      74HC14 SOIC-14      × 1
+ C9662      LM1117-3.3 SOT-223  × 1
+
+ C10418     USB_B_Micro         × 1
+ C294504    Tactile Switch      × 6
+ C2333      Pin Header 2×6      × 2
+
+            R   - Various
+            LED - Various
+
+------------------------------------------
+
+ Clock Module
+
+ Part#      Description         Quantity
+ -----      -----------         --------
+ C1760      C, 100 nF           × 8
+ C307527    C,  10 µF           × 2
+ C115309    R,  10 k            × 7
+ C115316    R,   1 k            × 3
+ C115424    R, 100 Ohm          × 1
+
+ C5586      74HC00 SOIC-14      × 1
+ C5605      74HC14 SOIC-14      × 1
+ C5641      74HC393 SOIC-14     × 2
+ C9662      LM1117-3.3 SOT-223  × 1
+ C390802    32.768 kHz 3.2×2.5mm × 1
+
+ C10418     USB_B_Micro         × 1
+ C294504    Tactile Switch      × 2
+ C2333      Pin Header 2×17     × 1
+ C376125    Pin Header Hor 1×7  × 1
+ C319012    Switch XKB 12.7mm   × 1
+
+            R   - Various
+            LED - Various
+
+------------------------------------------
+
+ LEDs
+
+ Part#      Description
+ -----      -----------
+ C131244    Red
+ C131202    Orange
+ C72036     Yellow
+ C142303    Green-yellow
+ C73546     Green
+ C72035     Blue
+
+------------------------------------------
+
